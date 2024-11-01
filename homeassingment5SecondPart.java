@@ -28,10 +28,10 @@ public class homeassingment5SecondPart {
 	         /*
 	          output
 	          After swapping:
-W = 2
-G = 3
-K = 4
-A = 1
+                  W = 2
+                  G = 3
+                  K = 4
+                  A = 1
 
 	          */
 	}
