@@ -16,7 +16,7 @@ public class question1 {
 		/*
 		output = 
 		Hello "ITERIAN" 
-        Welcome to Siksha 'O' Anushandhan Family.
+                Welcome to Siksha 'O' Anushandhan Family.
 		 */
 		
 	}
