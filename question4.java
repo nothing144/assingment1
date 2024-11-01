@@ -10,8 +10,8 @@ public class question4 {
 		/*
 		output
 		Firstname 
-        Middlename 
-        Lastname
+                Middlename 
+                Lastname
 		*/
 	}
 
