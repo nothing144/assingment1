@@ -12,7 +12,8 @@ public class homeassingment2 {
 		 System.out.println('b' + 'c');
 		  System.out.println((char) ('a' + 4));
 		  /*
-		      b
+    output = 
+              b
               197
               e
  
