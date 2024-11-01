@@ -1,4 +1,13 @@
 package assingment1;
+/*
+Assume a string variable ruler1 contains “1” initially i.e. String ruler1=”1” Write a java
+program to print the following output using string concatenation. (You can take extra string
+variables)
+1
+1 2 1
+1 2 1 3 1 2 1
+1 2 1 3 1 2 1 4 1 2 1 3 1 2 1
+*/
 
 public class question10 {
 	public static void main(String[] args) {
@@ -10,6 +19,13 @@ public class question10 {
 		System.out.println(" " + ruler1 + " " + ruler2 + " " + ruler1 );
 		System.out.println(" " + ruler1 + " " + ruler2 + " " + ruler1 + " " + ruler3 + " " + ruler1 + " " + ruler2 + " " + ruler1);
 		System.out.println(" " + ruler1 + " " + ruler2 + " " + ruler1 + " " + ruler3 + " " + ruler1 + " " + ruler2 + " " + ruler1 + " " + ruler4 + " " + ruler1 + " " + ruler2 + " " + ruler1 + " " + ruler3 + " " + ruler1 + " " + ruler2 + " " + ruler1);
+		/*
+  output = 
+1
+1 2 1
+1 2 1 3 1 2 1
+1 2 1 3 1 2 1 4 1 2 1 3 1 2 1
+		*/
 	}
 
 }
