@@ -12,11 +12,12 @@ public class question1 {
 		System.out.println("Hello \"ITERIAN\" ");
 		System.out.println("Welcome to Siksha 'O' Anushandhan Family.");
 		System.out.println("Welcome to \"Introduction to Computer Laboratory\"");
-		System.out.println("Java is fun for All!!");
+		System.out.println("Java is fun for All !!");
 		/*
-		output = 
 		Hello "ITERIAN" 
                 Welcome to Siksha 'O' Anushandhan Family.
+                Welcome to "Introduction to Computer Laboratory"
+                Java is fun for All!!
 		 */
 		
 	}
