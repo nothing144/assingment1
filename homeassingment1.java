@@ -17,10 +17,10 @@ public class homeassingment1 {
 		 System.out.println("bc" + 2 + 3); 
 		 /*
 		   2bc
-           5bc
-           5bc
-           bc5
-           bc23
+                   5bc
+                   5bc
+                   bc5
+                   bc23
 		  */
 	}
 
