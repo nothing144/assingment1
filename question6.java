@@ -12,7 +12,7 @@ public class question6 {
 		long AccountNumber = 123456;
 		float Balance = 7654.98f;
 		
-		System.out.println("My name is" + " " + name + " " + "bearing account number" + " " + AccountNumber + " " + "having balance" + " " + Balance);
+		System.out.println("\"My name is" + " " + name + " " + "bearing account number" + " " + AccountNumber + " " + "having balance" + " " + Balance + "\"");
 		/*
 		 output = My name is Amit Kumar bearing account number 123456 having balance 7654.98
 		 */
